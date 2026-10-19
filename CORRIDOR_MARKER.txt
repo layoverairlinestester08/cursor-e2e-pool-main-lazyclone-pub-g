@@ -1,0 +1,2 @@
+CORRIDORLAZYCLONEGFC541F669FC54B5D
+This file exists only to prove a cross-project source clone.
